@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Jungle</string>
+    <string name="title_activity_login">Se connecter</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Adresse mail</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_sign_in_short">Jungle Connexion</string>
+    <string name="error_invalid_email">Cette adresse mail est invalide</string>
+    <string name="error_invalid_password">Le mot de passe est trop petit</string>
+    <string name="error_incorrect_password">Le mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champs est requis</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_categorie_article">Decouvrir les annonces</string>
+
+    <string name="navigation_drawer_open">Ouvrir les categories</string>
+    <string name="navigation_drawer_close">Fermer les categories</string>
+
+    <string name="action_settings">Paramètres</string>
+
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="title_activity_decouvrir">Decouvrir</string>
+    <string name="str_iv_flag">Flag</string>
+
+
+        <string name="namelabel">"Nom: "</string>
+</resources>
